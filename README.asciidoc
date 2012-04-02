@@ -59,8 +59,8 @@ image:http://log4d.com/wp-content/uploads/2012/04/fcitx-1.png[Fcitx 特殊符号
 ps：我定义的「编码」是全拼，所以可能会混淆正常输入，建议全拼用户将「编码」略做
 修改，添加前缀比如 `z` （文档中说 `v` 不能被使用为前缀）。
 
-配置完成之后，使用 `fcitx -r` 重启 Fcitx（虽然官方说按 Ctrl+F5 可以刷新配置文件，
-但在我本机测试无效，不知道是 Fcitx 的问题，还是我桌面环境的问题）。
+配置完成之后，使用 `fcitx -r` 重启 Fcitx（使用 Ctrl+5 可以刷新配置文件，
+但并不能刷新全部配置文件，建议重启 Fcitx）。
 待会配置「快速输入」之后，也需要重启 Fcitx 来让配置文件生效。
 
 我的配置文件 https://github.com/alswl/fcitx-config/blob/master/pinyin/pySym.mb[fcitx-config / pinyin / pySym.mb]
@@ -110,6 +110,11 @@ Fcitx 完全可以通过配置中英文键位映射来修改中文状态下面�
 
 关于 Fcitx，有 bug 可以到官网反馈，处理起来效率很高，
 感谢作者们给大家带来这么优秀的开源软件。
+
+Update:
+
+* 2012-03-02 感谢 @Weng Xuetian 指正 `Ctrl + F5` 是错误的，需要使用
+`Ctrl + 5` 重载配置。
 
 原文链接：http://log4d.com/2012/04/fcitx-config
 
