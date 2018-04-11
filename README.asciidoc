@@ -2,7 +2,7 @@
 
 == Fcitx ==
 
-image:http://log4d.com/wp-content/uploads/2012/04/fcitx.png[Fcitx]
+image:https://ohsolnxaa.qnssl.com/upload_dropbox/201204/fcitx.png[Fcitx]
 
 Fcitx 简介：
 
@@ -49,7 +49,7 @@ yinyue ♫
 
 那么，在 Fcitx 中输入 `yinyue` 就会出现如下候选框
 
-image:http://log4d.com/wp-content/uploads/2012/04/fcitx-1.png[Fcitx 特殊符号]
+image:https://ohsolnxaa.qnssl.com/upload_dropbox/201204/fcitx-1.png[Fcitx 特殊符号]
 
 `pySym.mb` 文件中，「编码」和「符号」均不允许出现空格，所以比较适合短小的符号，
 而颜文字或者长句不适合在这里出现。颜文字以及其他较长的文字如何快速输入，
