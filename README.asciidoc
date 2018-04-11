@@ -82,7 +82,7 @@ yhuanhu ヾ(o◕∀◕)ﾉ
 
 在输入法中，键入 `；` 之后再输入 `yhuanhu` 就会出现下面候选框：
 
-image:http://log4d.com/wp-content/uploads/2012/04/fcitx-2.png[Fcitx 快速输入]
+image:https://ohsolnxaa.qnssl.com/upload_dropbox/201204/fcitx-2.png[Fcitx 快速输入]
 
 从图中可以看出，Fcitx 还自动进行了「字符组合」补全。
 
