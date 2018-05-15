@@ -115,7 +115,7 @@ Update:
 
 * 2012-03-02 感谢 @Weng Xuetian 指正 `Ctrl + F5` 是错误的，需要使用
 `Ctrl + 5` 重载配置。
-* 2013 am using Rime now, this repo is deprecated, please use https://github.com/alswl/Rime[alswl/Rime: Rime configuration for Squirrel (macOS & Linux)]
+* 2013 I'm using fcitx-rime now, this repo is deprecated, please use https://github.com/alswl/Rime[alswl/Rime: Rime configuration for Squirrel (macOS & Linux)]
 
 原文链接：http://log4d.com/2012/04/fcitx-config
 
